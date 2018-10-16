@@ -1,0 +1,44 @@
+.inputtext
+{
+  margin-left: 10px;
+}
+#submitter
+{
+  font-size: 10px;
+  margin-left: 10px;
+}
+.alert-info
+
+{
+
+}
+
+.myboxes
+{
+  margin-left: 0;
+  padding-right: 0px;
+  padding-left: 0px;
+  border:1.5px black solid;
+  width: 200px;
+
+
+}
+.container
+{
+  height: 100px;
+}
+#ho
+{
+display:block;
+}
+#yo
+{
+display:none;
+}
+#adlib2
+{
+}
+#adlib
+{
+
+}
