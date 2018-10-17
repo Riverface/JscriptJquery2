@@ -37,8 +37,11 @@ display:none;
 }
 #adlib2
 {
+  white-space: nowrap;
+display:inline-block;
 }
 #adlib
 {
-
+  display:inline-block;
+white-space: nowrap;
 }
