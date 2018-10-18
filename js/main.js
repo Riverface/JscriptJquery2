@@ -13,6 +13,7 @@ var prankname2 = "Mark"
 var insultiterator = 0;
 var insultalternator = 0;
 var decidedinsult;
+var peekaboo;
 $(document).ready(function(){
   $("#yournamesubmit").click(function()
   {
